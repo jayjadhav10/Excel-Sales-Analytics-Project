@@ -17,7 +17,7 @@
 
     **6.** Create a _report on [Top & Bottom Five Products](https://github.com/jayjadhav10/Excel-Sales-Analytics-Project/blob/main/Top%20and%20Bottom%20Five%20Products.pdf)_
 
-    **7.** Create a _report on[Top Five Countries in 2021]()_
+    **7.** Create a _report on[Top Five Countries in 2021](https://github.com/jayjadhav10/Excel-Sales-Analytics-Project/blob/main/Top%20Five%20Countries%202021.pdf)_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
