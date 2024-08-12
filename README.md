@@ -15,7 +15,7 @@
 
     **5.** Create a _report on [Top 10 Products]()_
 
-    **6.** Create a _report on [Top & Bottom Five Products]()_
+    **6.** Create a _report on [Top & Bottom Five Products](https://github.com/jayjadhav10/Excel-Sales-Analytics-Project/blob/main/Top%20and%20Bottom%20Five%20Products.pdf)_
 
     **7.** Create a _report on[Top Five Countries in 2021]()_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
