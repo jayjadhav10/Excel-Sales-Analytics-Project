@@ -11,7 +11,7 @@
 
     **3.** Create a _[Division Level Report](https://github.com/jayjadhav10/Excel-Sales-Analytics-Project/blob/main/Division%20Level%20Report.pdf)_
 
-    **4.** Create a report on [New Products Launched in 2021]()_
+    **4.** Create a report on [New Products Launched in 2021](https://github.com/jayjadhav10/Excel-Sales-Analytics-Project/blob/main/New%20Products%202021.pdf)_
 
     **5.** Create a _report on [Top 10 Products]()_
 
