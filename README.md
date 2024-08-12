@@ -9,6 +9,15 @@
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/jayjadhav10/Excel-Sales-Analytics-Project/blob/main/Market%20Performance%20VS%20Target%20Report.pdf)_
 
+    **3.** Create a _[Division Level Report]()_
+
+    **4.** Create a report on [New Products Launched in 2021]()_
+
+    **5.** Create a _report on [Top 10 Products]()_
+
+    **6.** Create a _report on [Top & Bottom Five Products]()_
+
+    **7.** Create a _report on[Top Five Countries in 2021]()_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
